@@ -1,4 +1,4 @@
-# Laporan Proyek Machine Learning - Hafidh Soekma Ardiansyah
+# Recommendation Anime System
 
 ## Project Overview
 Dunia hiburan sekarang menjadi momok utama para masyarakat untuk menjadi pengisi waktu dalam waktu liburan. Salah satu hiburan tersebut adalah anime. Anime adalah animasi dari Jepang yang digambar dengan tangan maupun mengugnakan teknologi komputer. Kata anime merupakan singkatan dari "animation" dalam Bahasa Inggris, yang merujuk pada semua jenis animasi. Persebaran anime sendiri sangatlah besar, menurut gambar dibawah ini bisa dilihat permintaan anime pada April - Juni 2018 diluar Jepang sangatlah banyak.
